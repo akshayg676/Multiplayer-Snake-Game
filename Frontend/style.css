@@ -1,0 +1,21 @@
+.vh-100 {
+  background-color: #66bfbf; /*#E4F9F5*/
+}
+
+#gameScreen {
+  /* to hide the gamescreen on launch. */
+  display: none;
+}
+
+h1 {
+  padding: 3rem 0;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 4rem;
+}
+
+h2 {
+  padding: 1rem 0;
+  font-weight: bold;
+  color: #ffffff;
+}
