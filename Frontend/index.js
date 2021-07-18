@@ -3,7 +3,7 @@ const SNAKE1_COLOR = "#08f7ff";
 const SNAKE2_COLOR = "#f21";
 const FOOD_COLOR = "#b8fb3c";
 
-const socket = io("https://multiplayersnakegame1.herokuapp.com/");
+const socket = io("https://still-spire-17070.herokuapp.com/");
 
 socket.on("init", handleInit);
 socket.on("gameState", handleGameState);
